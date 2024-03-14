@@ -7,6 +7,10 @@
   <img width="323" alt="image" src="https://github.com/D-TheProgrammer/Projet_Sudoku_Solver_in_C/assets/151149998/64a04980-be3a-4ead-aa4d-533a4e9f9d50">
 </div>
 
+### SOMMAIRE / SUMMARY
+- Présentation en francais avec tutoriel / Presentation in French with tutorial
+- Présentation en anglais avec tutoriel / Presentation in English with tutorial
+
 ## [PRESENTATION EN FRANCAIS]
 #### 1.  <ins>[Information]</ins>
 Le sudoku, est un jeu en forme de grille de 9 par 9 dont le but du jeu est de remplir la grille avec une série de chiffres (ou de lettres ou de symboles) tous différents, qui ne se trouvent jamais plusieurs fois sur une même ligne, dans une même colonne ou dans une même région sous-grille. La plupart du temps, les symboles sont des chiffres allant de 1 à 9, avec des régions carrés de 3 × 3. Quelques symboles sont déjà disposés dans la grille, ce qui autorise une résolution progressive du problème complet.
