@@ -8,8 +8,8 @@
 </div>
 
 #### SOMMAIRE / SUMMARY
-- Présentation en francais avec tutoriel / Presentation in French with tutorial(#presentation-en-francais)
-- Présentation en anglais avec tutoriel / Presentation in English with tutorial(#english-presentation)
+- [Présentation en francais avec tutoriel / Presentation in French with tutorial](#presentation-en-francais)
+- [Présentation en anglais avec tutoriel / Presentation in English with tutorial](#english-presentation)
 
 
 ## [PRESENTATION EN FRANCAIS]
