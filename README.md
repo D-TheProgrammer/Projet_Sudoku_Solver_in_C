@@ -7,9 +7,10 @@
   <img width="323" alt="image" src="https://github.com/D-TheProgrammer/Projet_Sudoku_Solver_in_C/assets/151149998/64a04980-be3a-4ead-aa4d-533a4e9f9d50">
 </div>
 
-### SOMMAIRE / SUMMARY
-- Présentation en francais avec tutoriel / Presentation in French with tutorial
-- Présentation en anglais avec tutoriel / Presentation in English with tutorial
+#### SOMMAIRE / SUMMARY
+- Présentation en francais avec tutoriel / Presentation in French with tutorial(#presentation-en-francais)
+- Présentation en anglais avec tutoriel / Presentation in English with tutorial(#english-presentation)
+
 
 ## [PRESENTATION EN FRANCAIS]
 #### 1.  <ins>[Information]</ins>
