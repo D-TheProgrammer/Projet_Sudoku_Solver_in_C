@@ -2,6 +2,11 @@
 [French] Projet de jeu Sudoku en C avec son Solver (D'abord ce sera le README en français, puis en anglais)  
 [English] Sudoku Game Project in C with its Solver (First it will be the French README then the English README After)
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![AI](https://img.shields.io/badge/AI-Solver-orange)
+![Game](https://img.shields.io/badge/Game-Puzzle-blue)
+![Terminal](https://img.shields.io/badge/Interface-Terminal-green)
+![Status](https://img.shields.io/badge/Status-Complete-success)
 
 <div align="center">
   <img width="323" alt="image" src="https://github.com/D-TheProgrammer/Projet_Sudoku_Solver_in_C/assets/151149998/64a04980-be3a-4ead-aa4d-533a4e9f9d50">
